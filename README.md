@@ -2,14 +2,10 @@ This program JavaLisp implements Lisp using Java.
 
 1. JavaLisp supports checks different inputs, e.g.,
 
-	> j
-
+	INPUT: > j
 	J
-	
 	java.lang.IllegalArgumentException: Unbounded Value
-	
 	at JavaLisp.Print(JavaLisp copy 4.java:193)
-	
 	at JavaLisp.main(JavaLisp copy 4.java:46)
 
 2. JavaLisp supports basic computations, like multiplication, plus, division and subtraction, e.g.,
