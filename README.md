@@ -35,3 +35,7 @@ This program JavaLisp implements Lisp using Java.
 	\> (CONS 3 4)
 
 	(3 . 4)
+
+Reference: 
+1. Berlin Brown and Software Development: http://berlinbrowndev.blogspot.com/2008/07/simple-lisp-implementation-in-java-ode.html
+2. Lets implement a simple Lisp Interpreter in Java: http://stdioe.blogspot.com/2012/01/lets-implement-simple-lisp-interpreter.html
