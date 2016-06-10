@@ -14,24 +14,24 @@ This program JavaLisp implements Lisp using Java.
 
 2. JavaLisp supports basic computations, like multiplication, plus, division and subtraction, e.g.,
 
-	> (+ 5   (- 2 (* 12 (/ 4 2))))
+	\> (+ 5   (- 2 (* 12 (/ 4 2))))
 
 	-17
 	
 3. JavaLisp supports CONS, T, NIL and so forth, e.g.,
 
-	> nil
+	\> nil
 
 	NIL
 
-	> t
+	\> t
 
 	T
 
-	> 8
+	\> 8
 
 	8
 
-	> (CONS 3 4)
+	\> (CONS 3 4)
 
 	(3 . 4)
