@@ -2,7 +2,7 @@ This program JavaLisp implements Lisp using Java.
 
 1. JavaLisp supports checks different inputs, e.g.,
 
-	INPUT: > j
+	\> j
 	
 	J
 	
