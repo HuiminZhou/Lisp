@@ -41,3 +41,7 @@ Reference:
 1. Berlin Brown and Software Development: http://berlinbrowndev.blogspot.com/2008/07/simple-lisp-implementation-in-java-ode.html
 
 2. Lets implement a simple Lisp Interpreter in Java: http://stdioe.blogspot.com/2012/01/lets-implement-simple-lisp-interpreter.html
+
+3. How to implement closures into a LISP interpreter:
+http://stackoverflow.com/questions/10161802/how-to-implement-closures-into-a-lisp-interpreter
+
