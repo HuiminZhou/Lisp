@@ -4,7 +4,6 @@ This program JavaLisp implements Lisp using Java.
 	> j
 	J
 	java.lang.IllegalArgumentException: Unbounded Value
-
 	at JavaLisp.Print(JavaLisp copy 4.java:193)
 	at JavaLisp.main(JavaLisp copy 4.java:46)
 
