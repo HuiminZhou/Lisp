@@ -1,4 +1,4 @@
-This program JavaLisp implements Lisp using Java.
+This program JavaLisp implements Lisp parser using Java.
 
 1. JavaLisp supports checks different inputs, e.g.,
 
